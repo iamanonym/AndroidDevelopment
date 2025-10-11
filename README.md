@@ -4,7 +4,7 @@
 |Лабораторная|Описание|Статус|Ссылка на MR|
 |---|---|---|---|
 |1|Основы Kotlin|✅ Готово|[Ссылка](https://github.com/iamanonym/AndroidDevelopment/pull/1)|
-|2|Функции в Kotlin|||
+|2|Функции в Kotlin|✅ Готово|[Ссылка](https://github.com/iamanonym/AndroidDevelopment/pull/2)|
 |3|Классы и объекты в Kotlin|||
 |4|Создание первого приложения|||
 |5|Работа с UI|||
